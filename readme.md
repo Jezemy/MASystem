@@ -1,9 +1,9 @@
 # 中文医疗问答系统
 
 ## 预览
-![image-20230319192224207](https://github.com/Jezemy/MASystem/tree/main/assets/image-20230319192224207.png)
+![image-20230319192224207](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192224207.png)
 
-![image-20230319192207463](https://github.com/Jezemy/MASystem/tree/main/assets/image-20230319192207463.png)
+![image-20230319192207463](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192207463.png)
 
 ## 介绍
 
@@ -59,7 +59,7 @@ neo4j-admin load --from=G:/dump/neo4j.dump --database=graph.db --force
 
 打开项目中的contextual/KGQuery.py文件，修改连接的用户名和密码
 
-![image-20230319200606840](https://github.com/Jezemy/MASystem/tree/main/assets/image-20230319200606840.png)
+![image-20230319200606840](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319200606840.png)
 
 ### 5. 启动Neo4j服务
 
@@ -81,7 +81,7 @@ TelegramBot需要到官网申请创建机器人，并将生成的Token复制到t
 
 ## 项目模块
 
-![image-20230319192131382](https://github.com/Jezemy/MASystem/tree/main/assets/image-20230319192131382.png)
+![image-20230319192131382](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192131382.png)
 
 ## 代码文件结构
 
