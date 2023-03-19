@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<link rel="stylesheet" type="text/css" href="/static/robot/bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/robot/css/bot.css"/>
+<script src="/static/robot/js/jquery.js" type="text/javascript" charset="utf-8"></script>
+<script src="/static/robot/bootstrap/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/static/robot/js/bot.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    $.ajaxSetup({
+        data: {csrfmiddlewaretoken: '{{ csrf_token }}'}
+    })
+</script>
+<body>
+<div class="container" id="main">
+    <div class="row col-md-offset-1">
+        <div class="col-md-8" id="mainChat">
+            <div class="header">
+                <h3>医疗问答助手</h3>
+            </div>
+
+            <div id="content" class="">
+
+                <div class="row message" id="waiting">
+                    <div class="col-md-1 image">
+                        <img src="/static/robot/img/profile.png">
+                    </div>
+                    <div class="col-md-6 chattext">
+                        <div class="text">
+                            <div class="spinner">
+                                <div class="bounce1"></div>
+                                <div class="bounce2"></div>
+                                <div class="bounce3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div><!-- content -->
+
+
+            <div id="footer">
+                <div class="row">
+                    <div class="col-md-10">
+                        <input type="text" class="form-control" id="msgText" placeholder="请输入内容" />
+                    </div>
+                    <div class="col-md-1 sendBtn">
+                        <button class="btn btn-send" id="sendBtn">发送</button>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-3" id="mainQuestion">
+            <div class="header">
+                <h3>常见问题</h3>
+            </div>
+            <div id="questions" class="">
+                <p>1. <a onclick="aTag(this)">感冒能够治得好吗</a></p>
+                <p>2. <a onclick="aTag(this)">苯中毒要怎么办</a></p>
+                <p>3. <a onclick="aTag(this)">脑血栓能治疗好吗</a></p>
+                <p>4. <a onclick="aTag(this)">骨质疏松的致病原因</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

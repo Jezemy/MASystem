@@ -1,0 +1,717 @@
+_affirm 没错
+_affirm 嗯啊
+_affirm 可以
+_affirm 没毛病
+_affirm 好的
+_affirm 行的
+_affirm 行吧
+_affirm ojbk
+_affirm 哦哦
+_affirm 嗯
+_affirm 正是
+_affirm 不错
+_affirm en
+_affirm ok
+_affirm 
+_affirm 哦
+_affirm 是
+_affirm 正确
+_affirm 那行
+_affirm o
+_affirm 对
+_deny 别
+_deny 并未
+_deny 切勿
+_deny 毋
+_deny 拒绝
+_deny 没
+_deny 不要
+_deny 否
+_deny 没有
+_deny 不可
+_deny 不能
+_deny 不
+_deny 无
+_deny 勿
+_deny 弗
+_deny 未
+_deny 不是
+_deny 并无
+_deny 莫
+_deny 仍未
+_deny 不再
+_deny 非
+_disease_cause 怎样 导致 疾病
+_disease_cause 怎么样 才 会
+_disease_cause 由 什么 引起
+_disease_cause 想 知道 疾病 一般 是 怎么 引起
+_disease_cause 如何 会
+_disease_cause 麻烦 跟 说 为什么 会
+_disease_cause 疾病 病因 是 什么
+_disease_cause 想 知道 一般 是 怎么 引起
+_disease_cause 为什么 会 疾病
+_disease_cause 为什么 会
+_disease_cause 疾病 由 什么 引起
+_disease_cause 如何 会 疾病
+_disease_cause 为何 会 疾病
+_disease_cause 为啥 会
+_disease_cause 疾病 是因为 什么 导致
+_disease_cause 麻烦 告诉 疾病 是 为什么
+_disease_cause 成因
+_disease_cause 疾病 通常 是 什么 引起
+_disease_cause 这是 怎么 导致
+_disease_cause 通常 是 什么 引起
+_disease_cause 什么 情况 会 发生
+_disease_cause 一般 由 什么 情况 引发
+_disease_cause 麻烦 告诉 是 为什么
+_disease_cause 为什么 我会
+_disease_cause 想 知道 是 怎么 会 疾病
+_disease_cause 为什么 我会 疾病
+_disease_cause 什么 情况 会 发生 疾病
+_disease_cause 疾病 怎么 会
+_disease_cause 疾病 是 什么 导致
+_disease_cause 怎么 会 呢
+_disease_cause 疾病 是 怎么 引起
+_disease_cause 怎么 会
+_disease_cause 是因为 什么 导致
+_disease_cause 咋样 才 会 疾病
+_disease_cause 疾病 是 由 什么 引起
+_disease_cause 咋样 才 会
+_disease_cause 疾病 一般 由 什么 情况 引发
+_disease_cause 怎样 导致
+_disease_cause 是 什么 原因
+_disease_cause 为什么 会 导致
+_disease_cause 为什么 会 呢
+_disease_cause 怎么样 才 会 疾病
+_disease_cause 是 由 什么 引起
+_disease_cause 是 怎么 引起
+_disease_cause 怎么 会
+_disease_cause 为什么 会 导致 疾病
+_disease_cause 为何 会
+_disease_cause 疾病 会 是 什么 导致 呢
+_disease_cause 会 是 什么 导致 呢
+_disease_cause 想 知道 是 怎么 会
+_disease_cause 怎么 会 呢
+_disease_cause 是 怎么 会
+_disease_cause 这是 怎么 导致
+_disease_cause 怎么 会 疾病
+_disease_cause 为什么 会 疾病 呢
+_disease_department 去 哪个 科室
+_disease_department 去 哪个 科 治疗 疾病
+_disease_department 属于 什么 科室
+_disease_department 疾病 挂 什么 科室
+_disease_department 去 哪 看病
+_disease_department 属于 什么 地方 管
+_disease_department 挂 什么 科室
+_disease_department 疾病 去 哪 找 医生
+_disease_department 疾病 去 哪 看病
+_disease_department 去 哪 找 医生
+_disease_department 找 什么 医生 挂号
+_disease_department 疾病 去 什么 科室 看病
+_disease_department 去 什么 科室 看病
+_disease_department 去 哪个 科室 治疗 疾病
+_disease_department 疾病 去 挂 什么 号
+_disease_department 疾病 属于 什么 科
+_disease_department 什么 科室 管 疾病
+_disease_department 挂 什么 科
+_disease_department 疾病 找 什么 医生 挂号
+_disease_department 去 哪个 科室 治疗
+_disease_department 疾病 属于 什么 地方 管
+_disease_department 疾病 去 哪个 科室
+_disease_department 疾病 属于 什么 科室
+_disease_department 属于 什么 科
+_disease_department 去 哪个 科 治疗
+_disease_department 去 什么 地方 治疗 疾病
+_disease_department 疾病 挂 什么 科
+_disease_department 去 哪里 才能 治疗 疾病
+_disease_desc 麻烦 说 下 疾病 是 个 啥
+_disease_desc 啥 是 疾病
+_disease_desc 疾病 是 啥病
+_disease_desc 疾病
+_disease_desc 疾病 是 个 啥子
+_disease_desc 这是 什么 疾病
+_disease_desc 疾病 是 什么 病
+_disease_desc 疾病 是 个 什么 东西
+_disease_desc 啥病 是 疾病
+_disease_desc 请问 啥 玩意 是 疾病
+_disease_desc 什么 东西 是 疾病
+_disease_desc 疾病 简介 是 什么
+_disease_desc 疾病 是 什么 玩意
+_disease_desc 到底 什么 才 是 疾病
+_disease_desc 啥 玩意 叫 疾病
+_disease_desc 麻烦 解释一下 什么 是 疾病
+_disease_desc 疾病 是 什么
+_disease_desc 能 说 什么 是 疾病
+_disease_desc 请问 疾病 是 什么
+_disease_desc 我想 问下 疾病
+_disease_desc 疾病 到底 是 啥子
+_disease_desc 我想 问下 疾病 是 啥
+_disease_desc 什么 病是 疾病
+_disease_desc 这是 什么
+_disease_desc 疾病 究竟 是 什么
+_disease_desc 疾病 是 啥
+_disease_desc 什么 是 疾病
+_disease_diet 疾病 的话 吃 什么 东西
+_disease_diet 吃 什么 菜 可以 帮助 疾病
+_disease_diet 疾病 不能 吃 什么
+_disease_diet 疾病 吃 东西 有 什么 注意
+_disease_diet 吃 东西 注意 什么
+_disease_diet 吃 东西 有 什么 注意
+_disease_diet 吃点 什么 东西 疾病
+_disease_diet 疾病 吃些 什么
+_disease_diet 疾病 食品
+_disease_diet 疾病 可以 吃 什么
+_disease_diet 吃 什么 东西 有 帮助
+_disease_diet 吃 什么 有助于 疾病
+_disease_diet 疾病 食用 什么
+_disease_diet 可以 吃
+_disease_diet 疾病 可以 喝些 什么 东西
+_disease_diet 疾病 有 什么 推荐 吃
+_disease_diet 可以 吃些 什么 东西
+_disease_diet 忌口 有 什么
+_disease_diet 有 什么 菜谱 推荐
+_disease_diet 吃 什么 东西 好得快
+_disease_diet 有 什么 菜谱 有助于 疾病 快点 恢复
+_disease_diet 疾病 吃 啥
+_disease_diet 吃 方面 有 什么 禁忌
+_disease_diet 疾病 吃 方面 有 什么 禁忌
+_disease_diet 喝 什么
+_disease_diet 伙食
+_disease_diet 不能 吃 什么
+_disease_diet 吃点 什么 东西
+_disease_diet 疾病 吃 什么
+_disease_diet 疾病 吃 什么 东西 好得快
+_disease_diet 有 什么 补品 适合 吃
+_disease_diet 食用 什么
+_disease_diet 可以 吃些 什么 东西 疾病
+_disease_diet 有 什么 菜谱 有助于 快点 恢复
+_disease_diet 疾病 饮用 什么
+_disease_diet 疾病 有 相关 菜谱
+_disease_diet 疾病 有 什么 不能 吃
+_disease_diet 的话 吃 什么 东西
+_disease_diet 有 什么 可以 吃
+_disease_diet 有 什么 补品 适合 疾病 吃
+_disease_diet 可以 喝
+_disease_diet 吃 什么 菜 可以
+_disease_diet 疾病 吃 什么
+_disease_diet 吃 什么 有助于
+_disease_diet 疾病 补品 有 什么
+_disease_diet 疾病 有 什么 推荐 吃
+_disease_diet 疾病 有 什么 可以 吃
+_disease_diet 有 相关 菜谱
+_disease_diet 吃 什么
+_disease_diet 疾病 伙食
+_disease_diet 疾病 可以 吃 什么 东西
+_disease_diet 有 什么 推荐 吃
+_disease_diet 疾病 喝 什么
+_disease_diet 饮用 什么
+_disease_diet 食品
+_disease_diet 可以 吃 什么
+_disease_diet 吃 什么 食物
+_disease_diet 疾病 吃 什么
+_disease_diet 饮食 注意 什么
+_disease_diet 吃 什么
+_disease_diet 有 什么 不能 吃
+_disease_diet 疾病 忌口 有 什么
+_disease_diet 疾病 吃 东西 注意 什么
+_disease_diet 食用 什么 食品 有助于 疾病
+_disease_diet 吃些 什么
+_disease_diet 吃 什么
+_disease_diet 疾病 饮食 注意 什么
+_disease_drug 通常 吃 什么 药品
+_disease_drug 疾病 喝 口服液 可以
+_disease_drug 疾病 吃 什么 胶囊
+_disease_drug 吃 什么 药品
+_disease_drug 什么 药对 治疗 疾病 有 影响
+_disease_drug 喝 口服液 可以
+_disease_drug 疾病 吃 什么 药 好得快
+_disease_drug 疾病 吃 什么 药 比较
+_disease_drug 对于 吃 什么 药好
+_disease_drug 疾病 吃 什么 药品
+_disease_drug 吃 什么 胶囊
+_disease_drug 有 什么 药品 可以 治疗 疾病
+_disease_drug 疾病 吃 什么 药好
+_disease_drug 吃 什么 药好
+_disease_drug 疾病 一般 会 吃 什么 药
+_disease_drug 什么 药品 对 疾病
+_disease_drug 想 吃 点药
+_disease_drug 什么 药物 推荐 在 疾病 服用
+_disease_drug 什么 药物 可以 治疗 疾病
+_disease_drug 疾病 吃 什么 药品 可以 恢复 得 快
+_disease_drug 疾病 有 什么 药片 可以 吃
+_disease_drug 有 什么 药片 可以 吃
+_disease_drug 疾病 吃 什么 药
+_disease_drug 中药 可以 治疗
+_disease_drug 什么 药物 推荐 在 服用
+_disease_drug 有 推荐 药片
+_disease_drug 疾病 可以 喝 什么 口服液
+_disease_drug 用药
+_disease_drug 有 什么 用药 推荐 疾病
+_disease_drug 对于 疾病 吃 什么 药好
+_disease_drug 有 什么 药品 可以 治疗
+_disease_drug 吃 什么 药
+_disease_drug 吃 什么 药 好得快
+_disease_drug 有 什么 中药 或者 西药 推荐
+_disease_drug 吃点 什么 药好 呢
+_disease_drug 疾病 推荐 吃 什么 药
+_disease_drug 疾病 吃些 什么 药物
+_disease_drug 有 什么 用药 推荐
+_disease_drug 疾病 用药
+_disease_drug 吃 什么 药品 可以 对付
+_disease_drug 中药 可以 治疗 疾病
+_disease_drug 什么 药品 对
+_disease_drug 疾病 可以 吃 什么 药
+_disease_drug 疾病 吃 什么 药好
+_disease_drug 什么 西药 可以 治疗 疾病
+_disease_drug 推荐 吃 什么 药
+_disease_drug 疾病 吃 什么 药物
+_disease_drug 吃 什么 药好
+_disease_drug 吃 什么 药 对于 有 帮助
+_disease_drug 得 吃 什么 药
+_disease_drug 什么 药对 治疗 有 影响
+_disease_drug 疾病 可以 服用 什么 药物
+_disease_drug 吃 什么 药物
+_disease_drug 吃 什么 药 对于 疾病 有 帮助
+_disease_drug 可以 喝 什么 口服液
+_disease_drug 疾病 吃 什么 药品
+_disease_drug 什么 西药 可以 治疗
+_disease_drug 吃 什么 药品 可以 恢复 得 快
+_disease_drug 疾病 通常 吃 什么 药品
+_disease_drug 吃 什么 药品 可以 对付 疾病
+_disease_drug 得 疾病 吃 什么 药
+_disease_drug 一般 会 吃 什么 药
+_disease_drug 吃些 什么 药物
+_disease_drug 疾病 有 什么 中药 或者 西药 推荐
+_disease_easy_get 疾病 一般 会 在 什么 人群 发生
+_disease_easy_get 谁 会 染上 疾病
+_disease_easy_get 谁 容易 得
+_disease_easy_get 哪些 人 容易 疾病
+_disease_easy_get 小孩 会得 上 疾病
+_disease_easy_get 一般 谁 比较 容易 得
+_disease_easy_get 疾病 常见 在 什么 人群
+_disease_easy_get 谁 容易 感染 疾病
+_disease_easy_get 谁 容易 患上 疾病
+_disease_easy_get 易感 人群
+_disease_easy_get 谁 比较 容易 得 疾病
+_disease_easy_get 小孩 会得 上
+_disease_easy_get 一般 会 在 什么 人群 发生
+_disease_easy_get 谁 容易 患上
+_disease_easy_get 疾病 易发 人群
+_disease_easy_get 谁 会 染上
+_disease_easy_get 成年人 容易 得 上 疾病
+_disease_easy_get 易感 人群 有 哪些
+_disease_easy_get 谁 容易 得 疾病
+_disease_easy_get 谁 比较 容易 感染
+_disease_easy_get 疾病 易感 人群 有 哪些
+_disease_easy_get 什么样 人会
+_disease_easy_get 成年人 容易 得 上
+_disease_easy_get 什么样 人会 疾病
+_disease_easy_get 疾病 易感 人群
+_disease_easy_get 疾病 一般 谁 比较 容易 得
+_disease_easy_get 什么 人会 患上
+_disease_easy_get 什么 人 容易
+_disease_easy_get 哪些 人会
+_disease_easy_get 谁 比较 容易 得
+_disease_easy_get 那些 人会 疾病
+_disease_easy_get 常见 在 什么 人群
+_disease_easy_get 易发 人群
+_disease_easy_get 什么 人会 患上 疾病
+_disease_easy_get 那些 人会
+_disease_neopathy 一同 发生 什么
+_disease_neopathy 什么 病会 和 一起 发生
+_disease_neopathy 疾病 通常 还会 伴随 什么 现象
+_disease_neopathy 疾病 会 一起 出现 什么
+_disease_neopathy 并发症 有 什么
+_disease_neopathy 会 伴随 发生 什么
+_disease_neopathy 通常 还会 伴随 什么 现象
+_disease_neopathy 疾病 并发症
+_disease_neopathy 什么 会 和 疾病 一 起来
+_disease_neopathy 疾病 并发症 有 什么
+_disease_neopathy 什么 会 随着 它 一起 发生
+_disease_neopathy 什么 会 和 一 起来
+_disease_neopathy 会 一并 发生 什么
+_disease_neopathy 会 引发 什么
+_disease_neopathy 还会 出现 什么 并发症
+_disease_neopathy 疾病 会 引发 什么
+_disease_neopathy 并发症
+_disease_neopathy 有 什么 并发症
+_disease_neopathy 什么 症状 会 跟着 一 起来
+_disease_neopathy 疾病 会 伴随 发生 什么
+_disease_neopathy 疾病 有 什么 并发症
+_disease_neopathy 什么 会 和 疾病 一起 发生
+_disease_neopathy 疾病 还会 出现 什么 并发症
+_disease_neopathy 什么 疾病 会 随着 疾病 一起 发生
+_disease_neopathy 疾病 还会 出现 什么 情况
+_disease_neopathy 会 一起 出现 什么
+_disease_neopathy 什么 会 一起 发生
+_disease_neopathy 疾病 一同 发生 什么
+_disease_neopathy 还会 出现 什么 情况
+_disease_prevent 怎样 避开 疾病
+_disease_prevent 怎么样 才 能够 不 疾病
+_disease_prevent 咋样 才能 不
+_disease_prevent 怎样才能 不 疾病
+_disease_prevent 怎样 防止 疾病
+_disease_prevent 咋 才能 不得
+_disease_prevent 咋 才能 不得 疾病
+_disease_prevent 如何 防范 疾病
+_disease_prevent 怎样才能 预防 疾病
+_disease_prevent 咋样 不
+_disease_prevent 如何 抵制 疾病
+_disease_prevent 咋样 才 可以 不 疾病
+_disease_prevent 如何 提前 抵制 疾病
+_disease_prevent 怎样才能 提前 预防 疾病
+_disease_prevent 如何 躲避
+_disease_prevent 怎样才能 不 染上
+_disease_prevent 咋样 才 可以 不
+_disease_prevent 怎样 避开
+_disease_prevent 怎样才能 不 被 疾病 染上
+_disease_prevent 怎样才能 提前 预防
+_disease_prevent 怎样才能 不
+_disease_prevent 如何 预防 疾病
+_disease_prevent 如何 提前 抵制
+_disease_prevent 不想 疾病 怎么 做
+_disease_prevent 如何 不
+_disease_prevent 怎么样 才 能够 不
+_disease_prevent 如何 预防
+_disease_prevent 怎样才能 有效 预防 疾病
+_disease_prevent 如何 才 可以 不 疾病
+_disease_prevent 不想 得 疾病 怎么办
+_disease_prevent 不想 得 怎么办
+_disease_prevent 咋样 才能 不 疾病
+_disease_prevent 有 什么 预防措施 可以 不
+_disease_prevent 如何 去 预防
+_disease_prevent 麻烦 告诉 怎么 避免
+_disease_prevent 有 什么 预防措施 可以 不 疾病
+_disease_prevent 麻烦 告诉 怎么 避免 疾病
+_disease_prevent 如何 抵制
+_disease_prevent 怎样才能 不
+_disease_prevent 疾病 如何 躲避
+_disease_prevent 想 请问 下 如何 避免 疾病
+_disease_prevent 想 请问 下 如何 避免
+_disease_prevent 怎样才能 不 染上 疾病
+_disease_prevent 怎样才能 预防
+_disease_prevent 如何 才 可以 不
+_disease_prevent 如何 预防
+_disease_prevent 怎么 才 不 疾病
+_disease_prevent 怎样才能 有效 预防
+_disease_prevent 不想 怎么 做
+_disease_prevent 怎么 才 不
+_disease_prevent 怎样才能 不 被 染上
+_disease_symptom 如何 判断 疾病
+_disease_symptom 好像 疾病
+_disease_symptom 会 有 什么 现象
+_disease_symptom 一般 会 如何
+_disease_symptom 到底 如何 才能 判断 已经
+_disease_symptom 一般 会 出现 什么 症状
+_disease_symptom 疾病 有 什么 症状
+_disease_symptom 想 知道 怎么 断定 疾病
+_disease_symptom 怎么 判断 有没有
+_disease_symptom 朋友 好像 怎么 判断
+_disease_symptom 疾病症状
+_disease_symptom 到底 怎么 判断 有没有
+_disease_symptom 家人 疾病 怎么 推断
+_disease_symptom 想 知道 怎么 断定
+_disease_symptom 到底 怎么 判断 有没有 疾病
+_disease_symptom 怎么 判断 疾病
+_disease_symptom 好像 得
+_disease_symptom 症状
+_disease_symptom 怎么样 就是 疾病
+_disease_symptom 是不是 疾病
+_disease_symptom 表征 有 哪些
+_disease_symptom 能 不能 跟 说 怎么 判断 疾病
+_disease_symptom 想 确定 是否
+_disease_symptom 疾病 到底 会 发生 什么
+_disease_symptom 家人 怎么 推断
+_disease_symptom 什么 情况 意味着 疾病
+_disease_symptom 觉得 疾病 怎么 判断
+_disease_symptom 疾病 会 有 什么 现象
+_disease_symptom 会 引发 别的
+_disease_symptom 告诉 疾病 怎么 判断
+_disease_symptom 到底 如何 才能 判断 已经 疾病
+_disease_symptom 有 什么 症状
+_disease_symptom 告诉 我要 怎么 判断
+_disease_symptom 疾病 一般 会 如何
+_disease_symptom 疾病 一般 会 出现 什么 症状
+_disease_symptom 怎么样 就是
+_disease_symptom 我会 不会 是
+_disease_symptom 我能 自己 判断 是否 疾病
+_disease_symptom 怎么 判断
+_disease_symptom 疾病 会 有 什么 表现
+_disease_symptom 能 不能 跟 说 怎么 判断
+_disease_symptom 到底 会 发生 什么
+_disease_symptom 请问 怎么 判断 是否 疾病
+_disease_symptom 朋友 好像 疾病 怎么 判断
+_disease_symptom 想 确定 是否 疾病
+_disease_symptom 如何 判断
+_disease_symptom 请问 怎么 判断 是否
+_disease_symptom 人 疾病 怎么 判断
+_disease_symptom 觉得 是 怎么 判断
+_disease_symptom 我能 自己 判断 是否 有
+_disease_symptom 是不是
+_disease_treat_cost 要花 多少 钱 可以 治疗 疾病
+_disease_treat_cost 疾病 要花 多少 钱
+_disease_treat_cost 治疗 疾病 是不是 很贵
+_disease_treat_cost 看病 要花 多少 钱
+_disease_treat_cost 要花 多少 钱 才能 看病
+_disease_treat_cost 要花 多少 钱
+_disease_treat_cost 治 这个 病要 多少 钱
+_disease_treat_cost 看 这个 病要 花 多少 钱
+_disease_treat_cost 治疗 要花 多少 钱
+_disease_treat_cost 治疗 这病 用 不用 一万
+_disease_treat_cost 看病 要花 多少 钱
+_disease_treat_cost 治疗 费用 是 多少
+_disease_treat_cost 治疗 是不是 很贵
+_disease_treat_cost 疾病 治疗 贵不贵
+_disease_treat_cost 疾病 治疗 费用 是 怎么样
+_disease_treat_cost 多少 钱 可以 治疗 这个 病
+_disease_treat_cost 治疗 疾病 要花 多少 钱
+_disease_treat_cost 治疗 贵不贵
+_disease_treat_cost 医疗费 是 多少
+_disease_treat_cost 治疗 疾病 贵不贵
+_disease_treat_cost 这个 病 治疗 费用 是 多少
+_disease_treat_cost 这 病 一千块 治得
+_disease_treat_cost 看病 要花 多少 钱
+_disease_treat_cost 这 病 多少 钱 可以 治
+_disease_treat_cost 治疗 费用 是 怎么样
+_disease_treat_cost 治疗 贵不贵
+_disease_treat_cost 治疗 这病 用 不用 一千
+_disease_treat_rate 有 多少 成功 痊愈
+_disease_treat_rate 疾病 能 治疗
+_disease_treat_rate 疾病 治疗 比例
+_disease_treat_rate 疾病 治疗 几率 多大
+_disease_treat_rate 有 多 大 把握 治疗 疾病
+_disease_treat_rate 疾病 痊愈 几率 大不大
+_disease_treat_rate 有 多 大 几率 治
+_disease_treat_rate 有 多 大 能力 治
+_disease_treat_rate 治愈 几率
+_disease_treat_rate 能治
+_disease_treat_rate 可治
+_disease_treat_rate 有 多 大 能力 可以 治
+_disease_treat_rate 治愈 百分比
+_disease_treat_rate 治 疾病 几率 大
+_disease_treat_rate 治 好的 可能性 大
+_disease_treat_rate 多大 概率 可以 治
+_disease_treat_rate 有 多 大 希望 治
+_disease_treat_rate 疾病 治愈 可能性 有 多少
+_disease_treat_rate 疾病 痊愈 有 多 大 把握
+_disease_treat_rate 治疗 几率 多大
+_disease_treat_rate 有 多 大 把握 治疗
+_disease_treat_rate 有 几成 把握 治疗
+_disease_treat_rate 疾病 治愈 几率
+_disease_treat_rate 痊愈 几率 大不大
+_disease_treat_rate 有 多少 成功 治疗
+_disease_treat_rate 痊愈 有 多 大 把握
+_disease_treat_rate 有 多 大 几率 治 疾病
+_disease_treat_rate 能 不能 痊愈
+_disease_treat_rate 疾病 有 多少 成功 治疗
+_disease_treat_rate 治愈 可能性 有 多少
+_disease_treat_rate 疾病 可治
+_disease_treat_rate 疾病 治愈 百分比
+_disease_treat_rate 能 治疗
+_disease_treat_rate 治 好的 有 多少
+_disease_treat_rate 能 不能 治 好的
+_disease_treat_rate 疾病 治 好的 可能性 大
+_disease_treat_rate 疾病 有 多少 成功 痊愈
+_disease_treat_rate 疾病 能 不能 痊愈
+_disease_treat_rate 有 多 大 能力 治 疾病
+_disease_treat_rate 疾病 能 不能 治 好的
+_disease_treat_rate 治 好的 几率 大
+_disease_treat_rate 治疗 比例
+_disease_treat_rate 疾病 治 把握 有 多 大
+_disease_treat_rate 疾病 治疗 几率 大
+_disease_treat_rate 治 把握 有 多 大
+_disease_treat_rate 疾病 可以 治
+_disease_treat_rate 有 多 大 希望 治 疾病
+_disease_treat_rate 治 希望 大
+_disease_treat_rate 疾病 能治好
+_disease_treat_rate 疾病 治愈 有 多 大 把握
+_disease_treat_rate 能治好
+_disease_treat_rate 有 几成 把握 治疗 疾病
+_disease_treat_rate 可以 治
+_disease_treat_rate 疾病 治 好的 有 多少
+_disease_treat_rate 疾病 多大 概率 可以 治
+_disease_treat_time 治疗 多久
+_disease_treat_time 要治 多久
+_disease_treat_time 疾病 多少 年 可以
+_disease_treat_time 疾病 治疗 多少 年
+_disease_treat_time 用 多长时间 治疗
+_disease_treat_time 治疗 多长时间
+_disease_treat_time 疾病 治疗 几天
+_disease_treat_time 痊愈 多久
+_disease_treat_time 疾病 多久 可以 恢复
+_disease_treat_time 治疗 一个 星期
+_disease_treat_time 治 多久
+_disease_treat_time 疾病 要治 多久
+_disease_treat_time 疾病 治疗 周期 是 多久
+_disease_treat_time 我要 多久 才能 治疗
+_disease_treat_time 疾病 一 星期 可以
+_disease_treat_time 多久 可以
+_disease_treat_time 多久 可以 恢复
+_disease_treat_time 得 多久 菜能
+_disease_treat_time 疾病 多久 才能 治疗
+_disease_treat_time 三天 可以
+_disease_treat_time 疾病 几时 治
+_disease_treat_time 疾病 多少 小时 可以
+_disease_treat_time 多久 才能 治疗
+_disease_treat_time 治疗 疾病 多长时间
+_disease_treat_time 治疗 多少 年
+_disease_treat_time 治疗 用 多久
+_disease_treat_time 疾病 多久 可以
+_disease_treat_time 几时 恢复
+_disease_treat_time 一 星期 可以
+_disease_treat_time 疾病 几天 能
+_disease_treat_time 治疗 疾病 用 多久
+_disease_treat_time 什么 可以 治疗
+_disease_treat_time 疾病 三天 可以
+_disease_treat_time 疾病 几时 恢复
+_disease_treat_time 几天 能
+_disease_treat_time 得 疾病 多久 菜能
+_disease_treat_time 疾病 痊愈 多久
+_disease_treat_time 我要 多久 才能 治疗 疾病
+_disease_treat_time 疾病 治 多久
+_disease_treat_time 疾病 多少 天 可以
+_disease_treat_time 多少 天 可以
+_disease_treat_time 治疗 周期 是 多久
+_disease_treat_time 多少 年 可以
+_disease_treat_time 疾病 治疗 多久
+_disease_treat_time 几时 治
+_disease_treat_way 怎么 医治 疾病
+_disease_treat_way 怎么 医
+_disease_treat_way 疾病 怎么 破
+_disease_treat_way 怎么办
+_disease_treat_way 疾病 咋治
+_disease_treat_way 怎么 医治
+_disease_treat_way 咋治
+_disease_treat_way 如何治
+_disease_treat_way 我想 问下 疾病 怎么办
+_disease_treat_way 麻烦 跟 说 怎么 治疗 疾病
+_disease_treat_way 得 疾病 怎么办
+_disease_treat_way 想 快点 治 疾病 怎么 做
+_disease_treat_way 疾病 如何 医治
+_disease_treat_way 如何 医
+_disease_treat_way 怎样治 才
+_disease_treat_way 怎么办
+_disease_treat_way 告诉 疾病 怎么 治
+_disease_treat_way 得 怎么办
+_disease_treat_way 怎么 才能 恢复
+_disease_treat_way 疾病 怎样治 才
+_disease_treat_way 怎么 治
+_disease_treat_way 告诉 怎么 治
+_disease_treat_way 疾病 如何治
+_disease_treat_way 怎样才能 治好
+_disease_treat_way 咋办
+_disease_treat_way 疗法
+_disease_treat_way 怎样才能 治 疾病
+_disease_treat_way 如何 医治
+_disease_treat_way 怎么 才能 治疗
+_disease_treat_way 疾病 怎么 治疗
+_disease_treat_way 怎么 破
+_disease_treat_way 疾病 怎么 才能 恢复
+_disease_treat_way 疾病 咋办
+_disease_treat_way 咋整 疾病
+_disease_treat_way 怎么 治疗
+_disease_treat_way 我要 怎么 治
+_disease_treat_way 我想 问下 怎么办
+_disease_treat_way 疾病 怎么 医
+_disease_treat_way 是 怎么 个 治疗法
+_disease_treat_way 疾病 怎么办
+_disease_treat_way 疾病 疗法
+_disease_treat_way 怎么 才能 起来
+_disease_treat_way 怎么 医治
+_disease_treat_way 咋整
+_disease_treat_way 疾病 怎么 治
+_disease_treat_way 医治 方式
+_disease_treat_way 疾病 怎么 才能 起来
+_disease_treat_way 怎么 才能 治疗 疾病
+_disease_treat_way 如何 医治
+_disease_treat_way 如何 医治 疾病
+_disease_treat_way 如何 治疗
+_disease_treat_way 疾病 怎么 治
+_disease_treat_way 麻烦 跟 说 怎么 治疗
+_disease_treat_way 如何治
+_drug_func 药品 用来 作 甚
+_drug_func 药品 干嘛
+_drug_func 药品 治疗 啥
+_drug_func 药品 用途
+_drug_func 药品 是 治疗 什么 病
+_drug_func 药品 主治 啥
+_drug_func 什么 会 要求 服用 药品
+_drug_func 药品 治 啥
+_drug_func 药品 做 什么
+_drug_func 药品 可以 治疗 什么 病
+_drug_func 药品 一般 用于 什么 病 治疗
+_drug_func 药品 有 什么 用
+_drug_func 药品 可以 用来 做 什么
+_drug_func 药品 用处
+_drug_func 什么 吃 药品
+_drug_func 药品 治愈 啥
+_drug_func 药品 这个 药物 有 什么 用
+_drug_func 药品 医治 啥
+_drug_func 药品 用来 做 啥
+_drug_func 什么 病 可以 吃 药品
+_drug_func 药品 有 何用
+_drug_func 药品 有 什么 好处
+_drug_func 药品 有个 什么 用处
+_drug_func 得 什么 病得 吃 药品
+_drug_func 药品 能够 治疗 些 啥子 病
+_drug_price 药品 多少 钱 一盒
+_drug_price 这个 药贵 不贵
+_drug_price 药品 贵不贵
+_drug_price 这个 药 费用 是 多少 钱
+_drug_price 这个 药 几个 钱
+_drug_price 药物 费用 是 多少
+_drug_price 多贵 这个 药
+_drug_price 药 多少 钱 可以 买
+_drug_price 这个 药品 费用 是 多少
+_drug_price 多少 钱 可以 买 这个 药
+_drug_price 药物 费用 是 怎么样
+_drug_price 这个 药品 多少 钱
+_drug_price 药 一盒 多少 钱
+_drug_price 这药 花 多少 钱
+_drug_price 多少 钱 可以 买 这个 药
+_drug_price 这个 药 多少 钱
+_drug_price 花 多少 钱 买 这个 药
+_drug_price 药品 有多贵
+_drug_use 这个 药有 什么 用
+_drug_use 药品 怎么 用 才
+_drug_use 怎么 吃 药品
+_drug_use 这个 药要 怎么 用
+_drug_use 药品 怎么 服用
+_drug_use 怎么 用
+_drug_use 这个 怎么 吃
+_drug_use 如何 有效 使用 药品
+_drug_use 怎么 吃 这个 药品
+_drug_use 药品 使用 方式
+_drug_use 药品 用法 用量
+_drug_use 这个 药 一天 吃 几次
+_drug_use 这个 药 怎么 吃
+_drug_use 这个 药物 怎么 用
+_drug_use 这个 药 什么 用法
+_drug_use 怎么 使用
+_drug_use 如何 吃 这个 药品
+_drug_use 药品 如何 使用
+_goodbye 886
+_goodbye 拜
+_goodbye 再见
+_goodbye 走 下次 再聊
+_goodbye 好的 再见
+_goodbye 我先走了哦
+_goodbye 临时 有事 下次 再聊
+_greet 你好呀
+_greet 在吗在吗
+_greet 在吗
+_greet 哈喽
+_greet 你好
+_greet 晚上好
+_greet 中午好
+_greet 有人吗
+_greet hello
+_thankyou 谢谢谢谢
+_thankyou 谢谢谢谢
+_thankyou 感谢
+_thankyou 谢谢
+_thankyou 谢了
+_thankyou 十分感谢
+_thankyou 万分感谢
+_thankyou 感激不尽
+_thankyou 蟹蟹

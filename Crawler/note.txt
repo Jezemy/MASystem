@@ -1,0 +1,59 @@
+实体包括{
+	疾病/并发症：disease
+	症状：symptom
+	检查：check
+	药品：drug
+	食谱：recipe
+}
+
+疾病disease属性{
+	id
+	name
+	desc
+	cause
+	prevent
+	department
+	treat_way
+	treat_time
+	treat_rate
+	treat_cost
+	easy_get
+	ill_rate
+	pic_url
+	diet_good
+	diet_bad
+	*recipies*
+	*neopathy*
+	*checkes*
+	*symptoms*
+	*drug*
+}
+
+症状symptoms{
+    id
+    name
+    desc
+    diagnose
+}
+
+检查checks{
+    id
+    name
+    desc
+}
+
+药物drug{
+    id
+    name
+    pic_url
+    price
+    func
+    use
+}
+
+菜谱recipes{
+    id
+    name
+    pic_url
+    produce_way
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Medical Assistant</title>
+    <script type="text/javascript" src="/static/robot/js/jquery.js"></script>
+	<style type="text/css">
+		button{
+			margin: 10px, 20px;
+		}
+		#send, #content{
+			width: 500px;
+			margin: 10px auto 0;
+		}
+	</style>
+	<script>
+
+		$(document).ready(function(){
+
+            $('#msgText').keydown(function (e) {
+                if (e.keyCode === 13) {
+                    $('#sendBtn').click();
+                }
+            });
+
+			$("#sendBtn").click(function(){
+				let text = $('#msgText').val();
+				if (text === "") return;
+
+				let content = $("#content");
+				content.append("<div>"+text+"</div>");
+				$('#msgText').val("");
+				$.ajax({
+					type:"POST",
+					url:"/receiveMsg/",
+					dataType:"json",
+					data:{msg:text,username:"django",csrfmiddlewaretoken:'{{ csrf_token  }}'},
+					success:function(data){
+						console.log(data);
+						if(data['code']==="200"){
+							console.log(data["response"]);
+							content.append("<div>"+data["response"]+"</div>");
+							if (data['buttons'] != "None"){
+								content.append("<div>");
+								$(data['buttons']).each(function (index,element) {
+									content.append('<button type="button" class="opBtn" intent="'+data["intent"]+'" onclick="button(this)">'+element+'</button>');
+                                });
+								content.append("</div>");
+							}
+						}
+					}
+					
+				});
+			});
+
+
+		});
+
+		function button(item) {
+		    let content = $("#content");
+			intent = $(item).attr("intent");
+			text = $(item).text();
+			content.append("<div>"+text+"</div>");
+			content.val('');
+			$.ajax({
+				type:"POST",
+				url:"/receiveBtn/",
+				dataType:"json",
+				data:{msg:text, intent:intent, username:"django",csrfmiddlewaretoken:'{{ csrf_token  }}'},
+				success:function(data){
+					console.log(data);
+					if(data['code']==="200"){
+						console.log(data["response"]);
+						content.append("<div>"+data["response"]+"</div>");
+					}
+				}
+
+			});
+		}
+	</script>
+	
+</head>
+<body>
+
+	
+	<div id="content">
+		<div>聊天内容</div>
+	</div>
+
+	<div id="send">
+		<input type="text" id="msgText"/>
+		<button type="button" id="sendBtn">发送</button>
+	</div>
+	
+</body>
+</html>

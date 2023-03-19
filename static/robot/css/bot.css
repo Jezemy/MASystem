@@ -1,0 +1,211 @@
+#main {
+	padding: 20px 0px;
+}
+
+#mainChat {
+	background-color: ghostwhite;
+	border: rgb(200, 200, 200, 0.5) solid 1px;
+	box-shadow: 0px 0px 1px 1px rgb(200, 200, 200, 0.5);
+	border-radius: 20px;
+}
+
+#mainQuestion {
+	background-color: ghostwhite;
+	border: rgb(200, 200, 200, 0.5) solid 1px;
+	box-shadow: 0px 0px 1px 1px rgb(200, 200, 200, 0.5);
+	border-radius: 20px;
+}
+
+.message,
+.reply {
+	margin: 10px 0px;
+}
+
+
+#content {
+	height: 600px;
+	padding: 10px 0;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+#content::-webkit-scrollbar {
+	display: none;
+}
+
+#questions {
+	height: 670px;
+}
+
+.image img {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+
+.message .chattext .text {
+	max-width: 400px;
+	margin: 0 10px;
+	background-color: #EEE;
+	border-radius: 10px;
+	padding: 10px 10px;
+	width:auto; 
+	display:inline-block !important;
+	display:inline;
+}
+
+.reply .chattext .text {
+	max-width: 400px;
+	background-color: lightblue;
+	border-radius: 10px;
+	padding: 10px 10px;
+	width:auto;
+	display:inline-block !important;
+	display:inline;
+
+	float: right;
+}
+.reply .image{
+	padding: 0;
+}
+
+
+.chattext img {
+	max-width: 300px;
+	max-height: 200px;
+}
+
+
+.btn-options {
+	margin: 10px 0;
+	padding: 0px 5px;
+}
+.btn-options span{
+	margin: 5px 2px;
+}
+
+.a-opt {
+	color: cornflowerblue;
+}
+
+.a-opt:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.btn-opt {
+	background-color: #FFFFFF;
+	border: royalblue solid 1px;
+	border-radius: 20px;
+	margin: 2px;
+	color: royalblue;
+}
+
+.btn-opt:hover {
+	background-color: royalblue;
+	color: #fff;
+	transition: all .3s
+}
+
+#footer {
+	margin: 10px 0;
+}
+
+#footer input {
+	height: 40px;
+	width: 600px;
+	border-radius: 10px;
+	resize: none;
+}
+
+.sendBtn {
+	margin: 2px 15px 0;
+}
+
+.btn-send {
+	width: 60px;
+}
+
+.btn-send:hover {
+	color: #FFF;
+	background-color: royalblue;
+}
+
+#questions p {
+	margin: 15px 3px;
+	color: #64a0ed;
+}
+
+#questions p a {
+	margin: 15px 3px;
+	color: #64a0ed;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#questions p:hover {
+	color: #204D74;
+	cursor: pointer;
+}
+
+#questions p a:hover {
+	color: #204D74;
+	cursor: pointer;
+}
+
+/* CSS Spinner */
+.spinner {
+	margin: 0 30px;
+	width: 20px;
+	text-align: center;
+}
+
+.spinner>div {
+	width: 4px;
+	height: 4px;
+	background-color: #888;
+
+	border-radius: 100%;
+	display: inline-block;
+	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+	animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.spinner .bounce1 {
+	-webkit-animation-delay: -0.32s;
+	animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+	-webkit-animation-delay: -0.16s;
+	animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+
+	0%,
+	80%,
+	100% {
+		-webkit-transform: scale(0)
+	}
+
+	40% {
+		-webkit-transform: scale(1.0)
+	}
+}
+
+@keyframes sk-bouncedelay {
+
+	0%,
+	80%,
+	100% {
+		-webkit-transform: scale(0);
+		transform: scale(0);
+	}
+
+	40% {
+		-webkit-transform: scale(1.0);
+		transform: scale(1.0);
+	}
+
+}

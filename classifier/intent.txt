@@ -1,0 +1,70 @@
+意图分类:
+
+意图代码 意图名称
+    意图举例
+-----------------
+greet 问好
+    你好
+
+goodbye 再见
+    拜拜
+
+thankyou 感谢
+    谢谢你
+
+affirm 确定
+    对的，没错
+
+deny 否认
+    没有了
+
+disease_desc 询问疾病
+    感冒是什么
+
+disease_cause 询问病因
+    感冒是怎么引起的
+
+disease_prevent 询问疾病预防措施
+    感冒要如何预防
+
+disease_department 询问疾病所属分科
+    感冒要挂什么科啊
+
+disease_treat_way 询问疾病如何治疗
+    感冒要怎么办
+
+disease_treat_time 询问疾病治疗时间
+    感冒要治疗多久啊
+
+disease_treat_rate 询问疾病治愈率
+    感冒有几成把握治好
+
+disease_treat_cost 询问疾病治疗费用
+    治疗感冒要多少钱
+
+disease_easy_get 询问疾病易患人群
+    谁容易得感冒啊
+
+disease_diet 询问疾病禁忌
+    感冒在饮食方面有什么讲究
+
+disease_neopathy 询问疾病并发症
+    感冒有什么并发症
+
+disease_symptom 询问疾病症状
+    感冒有什么症状
+
+disease_drug   询问疾病用药
+    感冒要吃什么药
+
+drug_price 询问药物价格
+    牛黄解毒丸多少钱
+
+drug_func 询问药物功能
+    牛黄解毒丸有什么用
+
+drug_use 询问药物怎么用
+    牛黄解毒丸怎么用
+
+recipe_produce_way 询问菜谱怎么做
+    酱黄瓜要怎么做
