@@ -1,7 +1,7 @@
 # 中文医疗问答系统
 
 ## 预览
-![image-20230319192224207](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192224207.png)
+![image-20230319192224207](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192224213.png)
 
 ![image-20230319192207463](https://github.com/Jezemy/MASystem/blob/main/assets/image-20230319192207463.png)
 
