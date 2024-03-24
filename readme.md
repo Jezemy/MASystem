@@ -41,7 +41,7 @@
 
 ### 3. 还原Neo4j数据
 
-点击[医疗知识图谱数据](链接：https://pan.baidu.com/s/1UculLeRm7-9g7K7t7VtPtQ)下载数据，提取码：a04c
+点击[医疗知识图谱数据](https://pan.baidu.com/s/1UculLeRm7-9g7K7t7VtPtQ)下载数据，提取码：a04c
 
 下载后执行下面的命令进行数据还原
 
